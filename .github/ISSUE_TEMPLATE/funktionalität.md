@@ -1,7 +1,7 @@
 ---
 name: Funktionalität
 about: Füge eine neue Funktionalität hinzu
-title: ''
+title: Als <rolle>, möchte ich <etwas> damit <etwas>
 labels: ''
 assignees: ''
 
